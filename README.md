@@ -25,28 +25,28 @@ Check all Electrical connections in the 3D printer.
 
 select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
 
-![WhatsApp Image 2023-11-30 at 21 20 48_e7d73086](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/fcee8ca4-bf1a-41a6-8ddc-590c9107a05a)
+![WhatsApp Image 2023-12-29 at 00 53 41_dbba50c0](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/838434e1-748f-4c1f-a825-e4fda8fd1991)
 
 ### Step 4.:-
 
 select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
 
-![WhatsApp Image 2023-11-30 at 21 21 03_c7882469](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/fc94f08c-a15d-4e34-b20a-cd18666bb72e)
+![WhatsApp Image 2023-12-29 at 00 54 51_9712948b](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/1f17ddfc-337c-4b65-a947-697a79555b47)
+
 
 ### Step 5:-
 
  select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
+![WhatsApp Image 2023-12-29 at 00 55 50_08684484](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/1fcf4c43-b32c-47d5-b574-8dd3b185413e)
 
-![WhatsApp Image 2023-11-30 at 21 21 15_f642fa1a](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/09f3c731-e153-471c-8697-d7b499ed0aaa)
 
 ### Step 6:-
 
  After completing all settings then click the Slice option and export the file in gcode format.
 
-![WhatsApp Image 2023-11-30 at 21 21 29_942d4cf1](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/d6d84e68-4e61-4bf2-843e-f2a6cc47c588)
+![WhatsApp Image 2023-12-29 at 00 56 33_4d733f91](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/302d16e5-33f5-4223-a621-1ee1f69ed543)
+![WhatsApp Image 2023-12-29 at 00 57 44_7efbfb2d](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/490d2f4b-1730-4392-a7d8-66c18bc48fae)
 
-
-![WhatsApp Image 2023-11-30 at 21 21 41_fadd25a9](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/08241d12-f7a7-4754-a162-191234ee5621)
 
 ### Step 7:-
 
@@ -65,8 +65,7 @@ After generating the gcode format then follow the these instruction as shown in 
 
 
 ### Output:
-
-![WhatsApp Image 2023-11-30 at 21 21 55_c795939a](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/dff6e02c-f052-4e3c-91aa-b687b9d2d9fa)
+![WhatsApp Image 2023-12-29 at 00 58 33_04906948](https://github.com/KUSHALI104/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231135/63c00c35-9370-4d6b-9d52-761c1d5bf072)
 
 
 ### Name:P G KUSHALI
